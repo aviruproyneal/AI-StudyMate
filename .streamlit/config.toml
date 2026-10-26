@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#4F46E5"
+base = "light"
+font = "sans serif"
+
+[server]
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
